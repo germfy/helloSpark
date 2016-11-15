@@ -1,0 +1,142 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/germfy/Documents/helloSpark/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> /Users/germfy/Documents/helloSpark/target/scala-2.10/classes/com/ibm/cds/spark/samples/HelloSpark$.class
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> /Users/germfy/Documents/helloSpark/target/scala-2.10/classes/com/ibm/cds/spark/samples/HelloSpark.class
+binary dependencies:
+3 items
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> /Users/germfy/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.1.jar
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> /Users/germfy/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> com.ibm.cds.spark.samples.HelloSpark
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> com.ibm.cds.spark.samples.HelloSpark$
+used names:
+61 items
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> *
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> +
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> <init>
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> Any
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> AnyRef
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> Array
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> ClassTag
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> Double
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> DoubleRDDFunctions
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> HelloSpark
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> Int
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> IntIsIntegral
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> Long
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> Nothing
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> Numeric
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> Object
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> Predef
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> RDD
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> Range
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> RichInt
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> Seq
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> SparkConf
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> SparkContext
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> String
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> T
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> T1
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> T2
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> Tuple2
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> Unit
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> _1
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> _2
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> apache
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> cds
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> com
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> computeStatsForCollection
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> conf
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> countPerPartitions
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> ibm
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> intWrapper
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> materializeClassTag
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> math
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> mean
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> min
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> numericRDDToDoubleRDDFunctions
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> org
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> package
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> parallelize
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> partitions
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> println
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> rdd
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> samples
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> scala
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> setAppName
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> spark
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> stats
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> stop
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> toInt
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> toLong
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> totalNumber
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> until
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> variance
+product stamps:
+2 items
+/Users/germfy/Documents/helloSpark/target/scala-2.10/classes/com/ibm/cds/spark/samples/HelloSpark$.class -> lastModified(1479192001000)
+/Users/germfy/Documents/helloSpark/target/scala-2.10/classes/com/ibm/cds/spark/samples/HelloSpark.class -> lastModified(1479192001000)
+source stamps:
+1 items
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> hash(78eb32fcd90d30e6c1758f42a240c6b2b35a6ac4)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1418879070000)
+/Users/germfy/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.1.jar -> lastModified(1428727559000)
+/Users/germfy/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> lastModified(1395179187000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/germfy/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.1.jar -> org.apache.spark.rdd.RDD$
+/Users/germfy/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> scala.math.Numeric$
+internal apis:
+1 items
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwHAjONwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw+IPAOHQABm5vdGlmeXNxAH4ADBKJxrV0AAR3YWl0c3EAfgAMFJAsaXQADSRhc0luc3RhbmNlT2ZzcQB+AAxPRWj7dAAGZXF1YWxzc3EAfgAMIL71IXQADGFzSW5zdGFuY2VPZnNxAH4ADLxtsAZ0ACNjb21wdXRlU3RhdHNGb3JDb2xsZWN0aW9uJGRlZmF1bHQkMnNxAH4ADGb02nN0AAxzeW5jaHJvbml6ZWRzcQB+AAyvnCkUdAANJGlzSW5zdGFuY2VPZnNxAH4ADFr4Q+B0AARtYWluc3EAfgAM9kOh6XQACW5vdGlmeUFsbHNxAH4ADPwKkyZ0AAxpc0luc3RhbmNlT2ZzcQB+AAy8+qVwdAAjY29tcHV0ZVN0YXRzRm9yQ29sbGVjdGlvbiRkZWZhdWx0JDNzcQB+AAxRFizPdAACPT1zcQB+AAzzH1rtdAAFY2xvbmVzcQB+AAzUaXAtdAAIdG9TdHJpbmdzcQB+AAxDEPiwdAAKSGVsbG9TcGFya3NxAH4ADD2PacR0AAIhPXNxAH4ADAc4wJB0AAhnZXRDbGFzc3NxAH4ADN6dLxd0AAJuZXNxAH4ADF/cYyt0AAJlcXNxAH4ADF2F9jV0AAIjI3NxAH4ADHGfExN0AAhmaW5hbGl6ZXNxAH4ADBO5Ttt0AAhoYXNoQ29kZXNxAH4ADC8xtq90ABljb21wdXRlU3RhdHNGb3JDb2xsZWN0aW9uc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAJGNvbS5pYm0uY2RzLnNwYXJrLnNhbXBsZXMuSGVsbG9TcGFya3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AX3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGRzcQB+AF91cQB+AEIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEhxAH4AUXVxAH4AUgAAAABzcQB+AFQAcQB+AB91cQB+AFcAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AY3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH91cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBseHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBadAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBzWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBjc3EAfgBydAAFQXJyYXlxAH4AeHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBydAAGU3RyaW5nc3EAfgB2c3EAfgB5dXEAfgB8AAAAA3NxAH4AfnQABGphdmFzcQB+AH50AARsYW5ncQB+AINzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXEAfgCXAAAAAnNxAH4AcnQABk9iamVjdHEAfgCbc3EAfgBydAADQW55cQB+AHh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABFjb20uaWJtLmNkcy5zcGFya3NxAH4ArHQAC2NvbS5pYm0uY2Rzc3EAfgCsdAAZY29tLmlibS5jZHMuc3Bhcmsuc2FtcGxlc3NxAH4ArHQAB2NvbS5pYm1zcQB+AKx0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVhmtqhIdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPC9Vc2Vycy9nZXJtZnkvRG9jdW1lbnRzL2hlbGxvU3BhcmsvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHjrMvzZDTDmwXWPQqJAxrKzWmrE
+external apis:
+0 items
+source infos:
+1 items
+/Users/germfy/Documents/helloSpark/src/main/scala/com/ibm/cds/spark/samples/HelloSpark.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGa2qEh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9nZXJtZnkvRG9jdW1lbnRzL2hlbGxvU3BhcmsvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
